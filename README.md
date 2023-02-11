@@ -1,5 +1,5 @@
-Hello
-Welcome to our repository
-we develop hello world program using java
-
+Welcome to our git repository
+hello world program using java
 author : LINKAN
+
+modified by : Linku
